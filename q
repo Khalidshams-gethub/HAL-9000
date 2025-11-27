@@ -1,2 +1,0 @@
-Sphinx of black quartz, judge my vow 
-The quick brown fox jumps over the dog
