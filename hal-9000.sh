@@ -5,7 +5,7 @@
 
 
 
-echo "Hello. I'm HAL 9000. What is your name?"
+echo " Hello. I'm HAL 9000. What is your name?"
 
 read USERNAME
 
